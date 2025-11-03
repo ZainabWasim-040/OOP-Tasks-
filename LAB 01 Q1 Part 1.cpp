@@ -25,5 +25,6 @@ Volume=Box1.height*Box1.length*Box1.breadth;
 cout<<"Volume of Box1= "<<Volume<<endl;
 
 Volume=Box2.height*Box2.length*Box2.breadth;
-cout<<"Volume of Box1= "<<Volume<<endl;
+cout<<"Volume of Box2= "<<Volume<<endl;
 }
+
